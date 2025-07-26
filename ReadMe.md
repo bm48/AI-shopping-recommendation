@@ -1,4 +1,4 @@
-# AI_based_Shopping_Assistant
+# AI based Shopping Assistant
 
 
 ## 1. Background
